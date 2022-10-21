@@ -1,8 +1,8 @@
-from restaurant import Restaurant
+# from restaurant import Restaurant
 import random
 
-res_3=Restaurant('trisara', 'nepalese')
-print(res_3.describe_restaurant())
+# res_3=Restaurant('trisara', 'nepalese')
+# print(res_3.describe_restaurant())
 
 
 
